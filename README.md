@@ -1,6 +1,8 @@
-# Sujal Portfolio
+# Sujal's Portfolio
 
-[**🟢 View Live Demo**](https://chokkarapuwar-sujal.github.io/Portfolio/)
+## 🌐 Live Website
+
+🔗 **[Open Portfolio](https://chokkarapuwar-sujal.github.io/Portfolio/)**
 
 This is my personal portfolio and digital resume, built to showcase my projects, skills, and experience. The UI is designed to be interactive, fully responsive, and features smooth typing animations.
 
