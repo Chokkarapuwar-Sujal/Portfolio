@@ -1,4 +1,4 @@
-# Sujal Portfolio / Resume
+# Sujal Portfolio
 
 [**🟢 View Live Demo**](#) _(Add your live website link here!)_
 
