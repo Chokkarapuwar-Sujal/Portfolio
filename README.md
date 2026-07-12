@@ -17,21 +17,21 @@ This is my personal portfolio and digital resume, built to showcase my projects,
 - **Bundler**: Vite
 - **Icons**: React Icons
 
-## 📂 Project Directory Tree
+## 📁 Project Structure
 
 ```text
-📦 sujal-portfolio
- ┣ 📂 public             # Static assets like favicon and images
- ┣ 📂 src
- ┃ ┣ 📂 components       # Reusable UI components (Navbar, Hero, About, etc.)
- ┃ ┣ 📂 context          # React context for global state management
- ┃ ┣ 📂 data             # Static data like resume details, projects, and skills
- ┃ ┣ 📂 styles           # CSS styling files
- ┃ ┣ 📜 App.jsx          # Main application component routing and layout
- ┃ ┗ 📜 main.jsx         # React application entry point
- ┣ 📜 .gitignore         # Git ignore rules
- ┣ 📜 index.html         # Main HTML template
- ┣ 📜 package.json       # Project metadata and dependencies
- ┣ 📜 README.md          # Project documentation
- ┗ 📜 vite.config.js     # Vite bundler configuration
+portfolio/
+├── public/                  # Static assets like favicon and images
+├── src/
+│   ├── components/          # Reusable UI components (Navbar, Hero, About, etc.)
+│   ├── context/             # React context for global state management
+│   ├── data/                # Static data like resume details, projects, and skills
+│   ├── styles/              # CSS styling files
+│   ├── App.jsx              # Main application component routing and layout
+│   └── main.jsx             # React application entry point
+├── .gitignore               # Git ignore rules
+├── index.html               # Main HTML template
+├── package.json             # Project metadata and dependencies
+├── README.md                # Project documentation
+└── vite.config.js           # Vite bundler configuration
 ```
